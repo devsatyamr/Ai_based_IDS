@@ -1,0 +1,6 @@
+Source_192.168.1.1,Source_10.0.0.1,Source_172.16.0.1,Destination_192.168.1.2,Destination_10.0.0.2,Destination_172.16.0.2,Protocol_TCP,Protocol_UDP,Label
+1,0,0,0,1,0,1,0,0
+0,1,0,1,0,0,1,0,1
+0,0,1,0,0,1,0,1,0
+1,0,0,1,0,0,1,0,1
+0,1,0,0,1,0,0,1,1
